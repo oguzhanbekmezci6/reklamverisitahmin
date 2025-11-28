@@ -10,3 +10,4 @@ Metrik,Sonuç
 Doğruluk (Accuracy),%93.00
 Yanlış Pozitif (FP) Hatası,4 / 100
 Yanlış Negatif (FN) Hatası,3 / 100 
+Geliştirdiğim model, reklam bütçesinin boşa gitme riskini (Yanlış Pozitif) sadece %4 ile sınırlarken, satın alma potansiyeli yüksek olan müşterilerimi yakalama (Doğru Pozitif) konusunda yüksek bir başarı gösterdi.
