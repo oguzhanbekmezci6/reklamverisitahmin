@@ -1,2 +1,14 @@
 # reklamverisitahmin
+Social_Network_Ads : https://www.kaggle.com/datasets/ayeshaimran123/social-network-ads/data verisi kullanılarak 
+Müşterilerin yaş ve tahmini maaş bilgileri alınmış , reklamı izledikten sonra ürünü satın alıp almadıkları incelenmiştir. Bu veriler kullanılarak bir makine öğrenimi modeli geliştirdim .
 Reklam verisi ile ürün satın aldı almadı tahmini
+Amacım: Sosyal medya reklamlarını gören potansiyel müşterilerin Yaş ve Tahmini Maaş verilerini kullanarak, ürünü satın alıp almayacaklarını tahmin edebilen bir model geliştirmekti.
+SVM, tam olarak bu durumlar için tasarlanmış bir model
+
+En Geniş Marjı bulur. Yani, iki sınıf arasında en güvenli ve en büyük boşluğu bırakan karar çizgisini benimsedim.
+
+RBF Kernel (Çekirdek Fonksiyonu) kullanarak, verilerimin doğrusal olmayan karmaşık ilişkilerini bile yakalamayı başardım.
+Metrik	Sonuç
+Doğruluk (Accuracy)	%93.00
+Yanlış Pozitif (FP) Hatası	4 / 100
+Yanlış Negatif (FN) Hatası	3 / 100
