@@ -6,7 +6,7 @@ SVM, tam olarak bu durumlar için tasarlanmış bir model olacaktı .
 En Geniş Marjı bulur. Yani, iki sınıf arasında en güvenli ve en büyük boşluğu bırakan karar çizgisini benimsedim.
 
 RBF Kernel (Çekirdek Fonksiyonu) kullanarak, verilerimin doğrusal olmayan karmaşık ilişkilerini bile yakalamayı başardım.
-Metrik	Sonuç
-Doğruluk (Accuracy)	%93.00
-Yanlış Pozitif (FP) Hatası	4 / 100
-Yanlış Negatif (FN) Hatası	3 / 100
+Metrik,Sonuç
+Doğruluk (Accuracy),%93.00
+Yanlış Pozitif (FP) Hatası,4 / 100
+Yanlış Negatif (FN) Hatası,3 / 100 
